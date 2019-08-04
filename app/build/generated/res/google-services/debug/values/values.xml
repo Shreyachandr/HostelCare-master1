@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">611293021352-ndjlj4ha0gst20ssk6j2nhiknicb6d0j.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://nitk-hostel-care-802b0.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">611293021352</string>
+    <string name="google_api_key" translatable="false">AIzaSyApfapxX_mJVGn0aM7Y-Hd69qfnqJ-tjsM</string>
+    <string name="google_app_id" translatable="false">1:611293021352:android:11a82206568996a5</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyApfapxX_mJVGn0aM7Y-Hd69qfnqJ-tjsM</string>
+    <string name="google_storage_bucket" translatable="false">nitk-hostel-care-802b0.appspot.com</string>
+    <string name="project_id" translatable="false">nitk-hostel-care-802b0</string>
+</resources>
